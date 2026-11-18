@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Virtual environments
+.venv
+venv
+ENV
+
+# Environment variables
+.env
+
+# Chroma DB specific
+chroma_db/
+chroma/
+
+# Test artifacts
+.coverage
+.hypothesis/
+.pytest_cache/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
